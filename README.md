@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝ 
 ```
 
-[![CI](https://github.com/payflow/payflow/actions/workflows/ci.yml/badge.svg)](https://github.com/payflow/payflow/actions/workflows/ci.yml)
+[![CI](https://github.com/TakshakSinghania/Payflow/actions/workflows/ci.yml/badge.svg)](https://github.com/TakshakSinghania/Payflow/actions/workflows/ci.yml)
 [![Node.js Version](https://img.shields.io/badge/Node.js-v20+-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791.svg)](https://www.postgresql.org/)
